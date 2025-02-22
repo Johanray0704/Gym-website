@@ -17,9 +17,9 @@ body{
 
 /*Header*/
 .next-btn:hover {
-    background-color: #0e4a4c; 
-    color: #0f4b47;            
-    border-color: #1e4d40;     
+    background-color:#eb8e43; 
+    color: #d09140;            
+    border-color: #e5c246;     
     transition: background-color 0.3s ease, color 0.3s ease; 
 }
 header{
