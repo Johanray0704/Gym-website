@@ -16,7 +16,12 @@ body{
 }
 
 /*Header*/
-
+.next-btn:hover {
+    background-color: #80e8ec; 
+    color: #5eeae0;           
+    border-color: #33fff5;     
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
 header{
 	position:fixed;
 	left: 0px;
